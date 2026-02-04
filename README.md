@@ -96,3 +96,24 @@ All services are operated via **JACUQ LTD, London**.
 ---
 
 ## 📂 What You’ll Find in This Repository  
+jacuq-public/
+├── README.md
+│
+├── philosophy/
+│   └── README.md
+│
+├── pitch/
+│   ├── OnePager_EN.md
+│   ├── PitchDeck_EN.md
+│   ├── DemoScript_EN_ES.md
+│   └── Roadmap90_EN.md
+│
+├── application/
+│   ├── NatWest_Application_EN.md
+│   └── Ask_Statement_EN.md
+│
+├── CV/
+│   └── README.md   (CV files will be stored here)
+│
+└── linguistic/
+    └── README.md
