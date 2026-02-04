@@ -95,7 +95,9 @@ All services are operated via **JACUQ LTD, London**.
 
 ---
 
-## 📂 What You’ll Find in This Repository  
+## 📂 What You’ll Find in This Repository
+
+```text
 jacuq-public/
 ├── README.md
 │
@@ -113,7 +115,7 @@ jacuq-public/
 │   └── Ask_Statement_EN.md
 │
 ├── CV/
-│   └── README.md   (CV files will be stored here)
+│   └── README.md
 │
 └── linguistic/
     └── README.md
