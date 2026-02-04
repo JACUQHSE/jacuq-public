@@ -20,8 +20,7 @@ I am a **Strategic HSE Consultant** with over **20 years of international experi
 - engineering & infrastructure  
 - complex project environments  
 
-I specialise in building **people‑centred, digitally enabled and future‑responsible** HSE/ESG systems that work in real operational conditions.  
-[1](https://onceprevent-my.sharepoint.com/personal/jacuna_jacuq_com/Documents/Microsoft%20Copilot%20Chat%20Files/Juan%20Acun%CC%83a%20%E2%80%93%20HSE%20consulting%202026.pdf)
+I specialise in building **people‑centred, digitally enabled and future‑responsible** HSE/ESG systems that work in real operational conditions.
 
 I have held leadership and advisory roles in organisations including:
 
@@ -31,8 +30,7 @@ I have held leadership and advisory roles in organisations including:
 - **Facebook projects** (Ergonomics & psychosocial risk)  
 - **Quirónprevención (Bombardier)**  
 - **Virgen Macarena University Hospital**  
-- **Industrial, railway, hospital & manufacturing environments**  
-[1](https://onceprevent-my.sharepoint.com/personal/jacuna_jacuq_com/Documents/Microsoft%20Copilot%20Chat%20Files/Juan%20Acun%CC%83a%20%E2%80%93%20HSE%20consulting%202026.pdf)
+- **Industrial, railway, hospital & manufacturing environments**
 
 My full CV is available in the `/CV` folder of this repository.
 
@@ -44,12 +42,9 @@ My work is grounded in:
 - The **holonic–fractal paradigm** (person → micro‑team → project → organisation)  
 - The **Triple Bottom Line (3E: Economy – Environment – Equity)** as a foundation for responsible growth  
 - My academic research in **integrated HSEQ systems and sustainability**, University of Seville  
-- A professional belief that **leadership, safety, performance and responsibility are inseparable**  
-[1](https://onceprevent-my.sharepoint.com/personal/jacuna_jacuq_com/Documents/Microsoft%20Copilot%20Chat%20Files/Juan%20Acun%CC%83a%20%E2%80%93%20HSE%20consulting%202026.pdf)[2](https://onceprevent-my.sharepoint.com/personal/jacuna_jacuq_com/Documents/Microsoft%20Copilot%20Chat%20Files/Profile%20(7).pdf).pdf)
+- A professional belief that **leadership, safety, performance and responsibility are inseparable**
 
 This philosophy inspired the three core service areas of JACUQ®:
-
----
 
 ---
 
@@ -65,17 +60,15 @@ Strengthening how people are supported, protected and empowered at work:
 - cognitive ergonomics (PVD/DSE)  
 - load management, boundaries, ethical practices  
 - safety culture & human‑factors leadership  
-[2](https://onceprevent-my.sharepoint.com/personal/jacuna_jacuq_com/Documents/Microsoft%20Copilot%20Chat%20Files/Profile%20(7).pdf).pdf)
 
 ---
 
 ### **SMART — Systems, Processes & Digital Enablement**  
-Making HSE/ESSE/ESG systems usable, auditable and decision‑ready:  
+Making HSE/ESG systems usable, auditable and decision‑ready:  
 - process design  
 - digital workflows (M365, Power Platform, Azure)  
 - compliance intelligence & documentation governance  
 - real‑time evidence for better decisions  
-[2](https://onceprevent-my.sharepoint.com/personal/jacuna_jacuq_com/Documents/Microsoft%20Copilot%20Chat%20Files/Profile%20(7).pdf).pdf)
 
 ---
 
@@ -85,7 +78,6 @@ Helping organisations integrate responsibility and long‑term thinking:
 - ethical operations  
 - long‑term culture change  
 - organisational maturity development  
-[2](https://onceprevent-my.sharepoint.com/personal/jacuna_jacuq_com/Documents/Microsoft%20Copilot%20Chat%20Files/Profile%20(7).pdf).pdf)
 
 ---
 
